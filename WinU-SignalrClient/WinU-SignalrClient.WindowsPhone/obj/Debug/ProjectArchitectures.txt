@@ -1,0 +1,1 @@
+D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.WindowsPhone\WinU-SignalrClient.WindowsPhone.csproj;neutral

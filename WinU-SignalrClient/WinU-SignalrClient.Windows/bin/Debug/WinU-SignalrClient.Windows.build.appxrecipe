@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIVINGROOM-PC</Machine>
+    <WindowsUser>Tate</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1d3eb4f8-a3ed-401c-bfda-a82ad4c8e855</PackageIdentityName>
+    <IntermediateOutputPath>D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\WinU-SignalrClient.Windows.exe">
+      <PackagePath>WinU-SignalrClient.Windows.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.Store.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.Store.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\WinU-SignalrClient.Windows.xr.xml">
+      <PackagePath>WinU-SignalrClient.Windows.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LIVINGROOM-PC</Machine>
+    <WindowsUser>Tate</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>1d3eb4f8-a3ed-401c-bfda-a82ad4c8e855</PackageIdentityName>
+    <IntermediateOutputPath>D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>F7769EF18BC4243C664B1B6BEF616D2111FA7BC04656F3E725E7AAB0D90628A2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>1d3eb4f8-a3ed-401c-bfda-a82ad4c8e855_1.0.0.0_neutral__a3em6zqfhp030</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>1d3eb4f8-a3ed-401c-bfda-a82ad4c8e855_a3em6zqfhp030!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>1d3eb4f8-a3ed-401c-bfda-a82ad4c8e855</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Tate</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T01:32:50.684</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\WinU-SignalrClient.Windows.exe">
+      <PackagePath>WinU-SignalrClient.Windows.exe</PackagePath>
+      <Modified>2015-06-08T01:38:01.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.dll</PackagePath>
+      <Modified>2015-06-08T01:30:54.980</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Microsoft.AspNet.SignalR.Client.2.2.0\lib\portable-win81+wpa81\Microsoft.AspNet.SignalR.Client.Store.dll">
+      <PackagePath>Microsoft.AspNet.SignalR.Client.Store.dll</PackagePath>
+      <Modified>2015-06-08T01:30:54.993</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Newtonsoft.Json.6.0.4\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2015-06-08T01:30:53.545</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Extensions.dll">
+      <PackagePath>System.Net.Http.Extensions.dll</PackagePath>
+      <Modified>2015-06-08T01:30:54.854</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\packages\Microsoft.Net.Http.2.2.28\lib\win8\System.Net.Http.Primitives.dll">
+      <PackagePath>System.Net.Http.Primitives.dll</PackagePath>
+      <Modified>2015-06-08T01:30:54.866</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-14T15:55:28.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-08T01:32:50.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-08T01:32:50.028</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\WinU-SignalrClient.Windows.xr.xml">
+      <PackagePath>WinU-SignalrClient.Windows.xr.xml</PackagePath>
+      <Modified>2015-06-08T01:32:49.981</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="D:\source\dotnet\WinU-SignalrClient\WinU-SignalrClient\WinU-SignalrClient.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-08T01:32:50.579</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
